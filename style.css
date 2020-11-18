@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+  font-family: "Space Grotesk", sans-serif;
+}
+
+#inputText {
+  width: 500px;
+  height: 35px;
+}
+
+button {
+  height: 35px;
+}
+#content {
+  display: none;
+  color: #222222;
+}
+
+.inputDiv {
+  background: #0052d4; /* fallback for old browsers */
+}
+
+#diki {
+  position: relative;
+  top: 1.2em;
+}
+
+#formInput {
+  position: relative;
+  top: 20em;
+  left: 5em;
+}
+
+#word {
+  text-transform: capitalize;
+}
+
+#credit{
+    color: #ffffff;
+}
+audio {
+  /* width: 80px;
+    border-radius: 0; */
+  height: 40px;
+}
+
+.right-side {
+  padding-top: 20em;
+}

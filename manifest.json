@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "name": "Dictionary",
+  "description": "This extension will analyze a page using GTmetrix",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_normal": "index.html"
+  },
+  "permissions": ["activeTab"]
+}
